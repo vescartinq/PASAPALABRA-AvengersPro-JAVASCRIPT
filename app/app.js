@@ -36,11 +36,11 @@ var questionsList = [
 	[
 		{ letter: "c", answer: "conejo", status: 0, question: ("CON LA C. Apodo con el que Thor se burla de Rocket")},
 		{ letter: "c", answer: "cero", status: 0, question: ("CON LA C. Número de Óscars que ha acumulado la saga Vengadores")},
-		{ letter: "c", answer: "civil war", status: 0, question: ("CON LA C. --2 PALABRAS-- Títula de la película de Vengadores que desata la guerra entre Iron Man y Capitán América")}
+		{ letter: "c", answer: "civil war", status: 0, question: ("CON LA C. Primera palabra del título de la película de Vengadores que desata la guerra entre Iron Man y Capitán América")}
 	],
 	[
 		{ letter: "d", answer: "danvers", status: 0, question: ("CON LA D. Apellido de la Vengadora más poderosa")},
-		{ letter: "d", answer: "destructor de tormentas", status: 0, question: ("CON LA D. --3 PALABRAS-- Arma forjada por Thor y Rocket en la estrella de Nidavellir para matar a Thanos")},
+		{ letter: "d", answer: "destructor", status: 0, question: ("CON LA D. Primera palabra del arma forjada por Thor y Rocket en la estrella de Nidavellir para matar a Thanos")},
 		{ letter: "d", answer: "danvers", status: 0, question: ("CON LA D. Apellido de la Vengadora más poderosa")}
 	],
 	[
